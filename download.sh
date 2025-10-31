@@ -1,2 +1,2 @@
-gdown --folder https://drive.google.com/drive/folders/1cjoYB7DGeHP_mbS-KVPSCux588w-39Pg?usp=sharing -O models
-gdown --folder https://drive.google.com/drive/folders/1BtJa4oBAcUFTi7-52q4xSfXzPiO71Ls6?usp=sharing -O models
+gdown --folder https://drive.google.com/drive/folders/1cjoYB7DGeHP_mbS-KVPSCux588w-39Pg?usp=sharing -O models/reranker
+gdown --folder https://drive.google.com/drive/folders/1BtJa4oBAcUFTi7-52q4xSfXzPiO71Ls6?usp=sharing -O models/retriever
